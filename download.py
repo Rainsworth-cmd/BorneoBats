@@ -9,7 +9,7 @@ BASE_URL = 'https://api.figshare.com/v2/'
 # the param indicates whether the target artile is private
 private = False
 # authorization token in header
-token='bfdfa70053a690730dfab049f381417af40d87d1e2998152f8d07d4edf42b22ff06854d83a6b0b8ddcaceb48ce50392ccd2b0033213dafe6e18622c5fe6700cc'
+token=''
 
 # build target url
 def endpoint(link):
