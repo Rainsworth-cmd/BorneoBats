@@ -7,7 +7,7 @@ from requests.exceptions import HTTPError
 
 
 BASE_URL = 'https://api.figshare.com/v2/{endpoint}'
-TOKEN = 'bfdfa70053a690730dfab049f381417af40d87d1e2998152f8d07d4edf42b22ff06854d83a6b0b8ddcaceb48ce50392ccd2b0033213dafe6e18622c5fe6700cc'#my figshare TOKEN, change it when actual use
+TOKEN = ''figshare TOKEN, change it when actual use
 CHUNK_SIZE = 1048576
 
 FILE_PATH = 'C:/Users/Dannis/PycharmProjects/Test/Test'#local path of upload file
